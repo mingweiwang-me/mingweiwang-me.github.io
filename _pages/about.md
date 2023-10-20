@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👋👋Hi! I am Mingwei Wang (王铭伟).
-I am currently working as an assistant professor at Xidian University. I received my PhD from the School of Management and Economics at University of Electronic Science and Technology of China(UESTC) in 2023, supervised by Prof.Dr. Decui Liang. As a visiting PhD student, I studied at the University of Zurich(UZH) in Switzerland from 2021 to 2022, supervised by Prof.Dr. René Algesheimer and Dr. Manuel Sebastian Mariani. 
+I am currently working as an assistant professor at [Xidian University](https://www.xidian.edu.cn/). I received my PhD from the School of Management and Economics at University of Electronic Science and Technology of China(UESTC) in 2023, supervised by Prof.Dr. Decui Liang. As a visiting PhD student, I studied at the University of Zurich(UZH) in Switzerland from 2021 to 2022, supervised by Prof.Dr. René Algesheimer and Dr. Manuel Sebastian Mariani. 
 
 <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 <div style="text-align:center; margin-top:5px;">
