@@ -20,8 +20,8 @@ redirect_from:
 I am Mingwei Wang.
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-<div style="text-align:center; margin-top:50px; font-size:24px; font-weight:bold;">
-   这里是你的座右铭
+<div style="text-align:center; margin-top:50px; font-size:20px; font-weight:bold;">
+   "Knowledge is a treasure, but practice is the key to it."
 </div>
 
 # 🔥 News
