@@ -3,14 +3,14 @@
     "short_name": "",
     "icons": [
        {
-          "src": "/android-chrome-192x192.png",
-          "sizes": "192x192",
-          "type": "image/png"
+          "src": "/mingweiwang_android_192.jpg",
+          "sizes": "192x215",
+          "type": "image/jpg"
        },
        {
-        "src": "/android-chrome-512x512.png",
-        "sizes": "512x512",
-        "type": "image/png"
+        "src": "/mingweiwang_android_512.png",
+        "sizes": "458x512",
+        "type": "image/jpg"
         }
     ],
     "theme_color": "#FFFFFF",
