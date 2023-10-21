@@ -102,10 +102,10 @@ My research interests include collective intelligence, group decision making, co
   Information Sciences 496 (2019) 242-263.
 
 # 💬 Academic Services
-## 🖋 Editor
-- *2023*, Sustainability (Guest editor-"Decision Making and Management Innovation in the Era of Big Data towards Sustainability") 
+## Editor
+- *2023*, Sustainability (Guest editor-"[Decision Making and Management Innovation in the Era of Big Data towards Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/2M373G7J0N)") 
 
-## 🔍 Reviewer
+## Reviewer
 - *2023-*, Information Fusion
 - *2020-*, Information Sciences
 - *2021-*, Expert Systems with Applications
@@ -115,14 +115,14 @@ My research interests include collective intelligence, group decision making, co
 - ...
 
 # 🎖 Awards
-## 👨🏻‍🎓 My Student Career
+## My Student Career
 - *2021-2022* China Scholarship Council scholarship 
 - *2022* Outstanding Student of University of Electronic Science and Technology of China
 - *2020-2022* National Scholarship, China
 - *2022* Outstanding Graduate of Sichuan Province
 
 # 💻 Teaching
-## 📚 Teaching Assistance
+## Teaching Assistance
 - Operations Research, Xidian University
 - Management Information System, University of Electronic Science and Technology of China
 - Advanced Programming in PYTHON Language, University of Electronic Science and Technology of China
