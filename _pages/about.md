@@ -33,7 +33,7 @@ My research interests include collective intelligence, group decision making, co
 - *2023.10*: &nbsp;🎉🎉 I set up my academic personal homepage!
 
 # 📝 Publications 
- ⭐️⭐️ <b>Selected</b>
+## ⭐️⭐️ Selected
 
 - [A two-stage method for improving the decision quality of consensus-driven three-way group decision-making](https://ieeexplore.ieee.org/abstract/document/9961219)
 
@@ -102,10 +102,10 @@ My research interests include collective intelligence, group decision making, co
   Information Sciences 496 (2019) 242-263.
 
 # 💬 Academic Services
- ## Editor
+## Editor
 - *2023*, Sustainability (Guest editor-"[Decision Making and Management Innovation in the Era of Big Data towards Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/2M373G7J0N)") 
 
- ## Reviewer
+## Reviewer
 - *2023-*, Information Fusion
 - *2020-*, Information Sciences
 - *2021-*, Expert Systems with Applications
@@ -115,7 +115,7 @@ My research interests include collective intelligence, group decision making, co
 - ...
 
 # 🎖 Awards
- ## My Student Career
+## My Student Career
 - *2021-2022* China Scholarship Council scholarship 
 - *2022* Outstanding Student of University of Electronic Science and Technology of China
 - *2020-2022* National Scholarship, China
@@ -123,7 +123,7 @@ My research interests include collective intelligence, group decision making, co
 - ...
 
 # 💻 Teaching
- ## Teaching Assistance
+## Teaching Assistance
 - Operations Research, Xidian University
 - Management Information System, University of Electronic Science and Technology of China
 - Advanced Programming in PYTHON Language, University of Electronic Science and Technology of China
