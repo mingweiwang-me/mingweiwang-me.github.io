@@ -39,9 +39,9 @@ My research interests include collective intelligence, group decision making, co
 
 - [Exploring three-way group decisions with consensus evolution network for software ecosystem hierarchical criteria health rating](https://www.tandfonline.com/doi/abs/10.1080/01605682.2022.2096507)
 
-**Mingwei Wang**, Decui Liang, Zeshui Xu
+  **Mingwei Wang**, Decui Liang, Zeshui Xu
 
-Journal of the Operational Research Society 74(6) (2023) 1536-1553.
+  Journal of the Operational Research Society 74(6) (2023) 1536-1553.
 <!--</div>
 </div>-->
 
