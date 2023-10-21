@@ -102,9 +102,18 @@ My research interests include collective intelligence, group decision making, co
   Information Sciences 496 (2019) 242-263.
 
 # 💬 Academic Services
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-  
+## 🖋 Editor
+- *2023*, Sustainability (Guest editor-"Decision Making and Management Innovation in the Era of Big Data towards Sustainability") 
+
+## 🔍 Reviewer
+- *2023-*, Information Fusion
+- *2020-*, Information Sciences
+- *2021-*, Expert Systems with Applications
+- *2023-*, Journal of Intelligent Fuzzy Systems
+- *2023-*, Applied Soft Computing
+- *2023-*, Artificial intelligence review
+- ...
+
 # 🎖 Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
