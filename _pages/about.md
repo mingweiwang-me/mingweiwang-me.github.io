@@ -35,13 +35,71 @@ My research interests include collective intelligence, group decision making, co
 # 📝 Publications 
 ## ⭐️⭐️ Selected
 
+- [A two-stage method for improving the decision quality of consensus-driven three-way group decision-making](https://ieeexplore.ieee.org/abstract/document/9961219)
+
+  **Mingwei Wang**, Decui Liang, Dengfeng Li
+
+  IEEE Transactions on Systems, Man, and Cybernetics: Systems  53(5) (2023)  2770-2780.
+  
 - [Exploring three-way group decisions with consensus evolution network for software ecosystem hierarchical criteria health rating](https://www.tandfonline.com/doi/abs/10.1080/01605682.2022.2096507)
 
   **Mingwei Wang**, Decui Liang, Zeshui Xu
 
   Journal of the Operational Research Society 74(6) (2023) 1536-1553.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Consensus achievement strategy of opinion dynamics based on deep reinforcement learning with time constraint](https://www.tandfonline.com/doi/abs/10.1080/01605682.2021.2015257)
+
+  **Mingwei Wang**, Decui Liang, Zeshui Xu
+
+  Journal of the Operational Research Society 73(12) (2022) 2741-2755.
+
+- [Consensus reaching with the externality effect of social network for three-way group decisions](https://link.springer.com/article/10.1007/s10479-020-03875-3)
+
+  **Mingwei Wang**, Decui Liang, Zeshui Xu, Wen Cao
+
+  Annals of Operations Research 315 (2022) 707-745.
+
+- [Physician recommendation via online and offline social network group decision making with cross-network uncertain trust propagation](https://link.springer.com/article/10.1007/s10479-022-04827-9)
+
+  **Mingwei Wang**, Decui Liang, Wen Cao, Yuanyuan Fu
+
+  Annals of Operations Research (2022).
+
+- [The evaluation of mobile health apps: A psychological perception-based probabilistic linguistic belief thermodynamic multiple attribute decision making method](https://www.tandfonline.com/doi/abs/10.1080/01605682.2020.1801361)
+
+  **Mingwei Wang**, Decui Liang, Zeshui Xu, Dajun Ye
+
+  Journal of the Operational Research Society 72(11) (2021) 2596-2610.
+
+- [A novel approach of three-way decisions with information interaction strategy for intelligent decision making under uncertainty](https://www.sciencedirect.com/science/article/pii/S0020025521009683)
+
+  Decui Liang, **Mingwei Wang**, Zeshui Xu
+
+  Information Sciences 581 (2021) 106-135.
+
+- [Risk interval-valued three-way decisions model with regret theory and its application to project resource allocation](https://www.tandfonline.com/doi/abs/10.1080/01605682.2019.1654939)
+
+  Decui Liang, **Mingwei Wang**, Zeshui Xu, Xu Chen
+
+  Journal of the Operational Research Society 72(1) (2021) 180-199.
+
+- [Sequential three-way multiple attribute group decisions with individual attributes and its consensus achievement based on social influence](https://www.sciencedirect.com/science/article/pii/S0020025520300268)
+
+  **Mingwei Wang**, Decui Liang, Zeshui Xu
+
+  Information Sciences 518 (2020) 286-308.
+
+- [Risk appetite dual hesitant fuzzy three-way decisions with TODIM](https://www.sciencedirect.com/science/article/pii/S0020025518309605)
+
+  Decui Liang, **Mingwei Wang**, Zeshui Xu, Dun Liu
+
+  Information Sciences 507 (2020) 585-605.
+
+- [Heterogeneous multi-attribute nonadditivity fusion for behavioral three-way decisions in interval type-2 fuzzy environment](https://www.sciencedirect.com/science/article/pii/S0020025519304463)
+
+  Decui Liang, **Mingwei Wang**, Zeshui Xu, Dun Liu
+
+  Information Sciences 496 (2019) 242-263.
 
 # 💬 Academic Services
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
