@@ -115,9 +115,16 @@ My research interests include collective intelligence, group decision making, co
 - ...
 
 # 🎖 Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 👨🏻‍🎓 My Student Career
+- *2021-2022* China Scholarship Council scholarship 
+- *2022* Outstanding Student of University of Electronic Science and Technology of China
+- *2020-2022* National Scholarship, China
+- *2022* Outstanding Graduate of Sichuan Province
 
 # 💻 Teaching
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 📚 Teaching Assistance
+- Operations Research, Xidian University
+- Management Information System, University of Electronic Science and Technology of China
+- Advanced Programming in PYTHON Language, University of Electronic Science and Technology of China
+- Data Mining and Information Management, University of Electronic Science and Technology of China
 
