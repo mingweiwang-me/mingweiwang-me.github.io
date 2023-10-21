@@ -120,6 +120,7 @@ My research interests include collective intelligence, group decision making, co
 - *2022* Outstanding Student of University of Electronic Science and Technology of China
 - *2020-2022* National Scholarship, China
 - *2022* Outstanding Graduate of Sichuan Province
+- ...
 
 # 💻 Teaching
 ## Teaching Assistance
