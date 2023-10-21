@@ -33,7 +33,7 @@ My research interests include collective intelligence, group decision making, co
 - *2023.10*: &nbsp;🎉🎉 I set up my academic personal homepage!
 
 # 📝 Publications 
-
+## ⭐️⭐️ Selected
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
