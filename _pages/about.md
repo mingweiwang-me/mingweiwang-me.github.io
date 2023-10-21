@@ -89,7 +89,7 @@ My research interests include collective intelligence, group decision making, co
 
   Information Sciences 518 (2020) 286-308.
 
-- [Risk appetite dual hesitant fuzzy three-way decisions with TODIM](https://www.sciencedirect.com/science/article/pii/S0020025518309605)
+- [Risk appetite dual hesitant fuzzy three-way decisions with TODIM](https://www.sciencedirect.com/science/article/pii/S0020025518309605)**<font color='red'>(Highly Cited Paper)</font>**
 
   Decui Liang, **Mingwei Wang**, Zeshui Xu, Dun Liu
 
