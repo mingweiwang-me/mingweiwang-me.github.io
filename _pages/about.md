@@ -33,7 +33,7 @@ My research interests include collective intelligence, group decision making, co
 - *2023.10*: &nbsp;🎉🎉 I set up my academic personal homepage!
 
 # 📝 Publications 
- ## ⭐️⭐️ Selected
+ ⭐️⭐️ <b>Selected</b>
 
 - [A two-stage method for improving the decision quality of consensus-driven three-way group decision-making](https://ieeexplore.ieee.org/abstract/document/9961219)
 
