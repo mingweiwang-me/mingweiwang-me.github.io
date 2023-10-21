@@ -111,7 +111,7 @@ My research interests include collective intelligence, group decision making, co
 - *2021-*, Expert Systems with Applications
 - *2023-*, Journal of Intelligent Fuzzy Systems
 - *2023-*, Applied Soft Computing
-- *2023-*, Artificial intelligence review
+- *2023-*, Artificial Intelligence Review
 - ...
 
 # 🎖 Awards
