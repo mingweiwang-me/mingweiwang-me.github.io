@@ -34,16 +34,12 @@ My research interests include collective intelligence, group decision making, co
 
 # 📝 Publications 
 ## ⭐️⭐️ Selected
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">-->
 
 - [Exploring three-way group decisions with consensus evolution network for software ecosystem hierarchical criteria health rating](https://www.tandfonline.com/doi/abs/10.1080/01605682.2022.2096507)
 
   **Mingwei Wang**, Decui Liang, Zeshui Xu
 
   Journal of the Operational Research Society 74(6) (2023) 1536-1553.
-<!--</div>
-</div>-->
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
