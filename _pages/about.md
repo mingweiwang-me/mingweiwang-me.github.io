@@ -108,6 +108,7 @@ My research interests include collective intelligence, group decision making, co
 ## Reviewer
 - *2023-*, Information Fusion
 - *2020-*, Information Sciences
+- *2023-*, Information Processing and Management
 - *2021-*, Expert Systems with Applications
 - *2023-*, Journal of Intelligent Fuzzy Systems
 - *2023-*, Applied Soft Computing
