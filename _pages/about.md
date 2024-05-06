@@ -30,10 +30,16 @@ My research interests include collective intelligence, group decision making, co
 </div>
 
 # 🔥 News
+- *2024.5*: &nbsp;🎉🎉 One paper is published on Omega!
 - *2023.10*: &nbsp;🎉🎉 I set up my academic personal homepage!
 
 # 📝 Publications 
 ## ⭐️⭐️ Selected
+- [Multi-period share pledging with sequential three-way proportion decision](https://www.sciencedirect.com/science/article/pii/S0305048324000689)
+
+  **Mingwei Wang**, Junping Zhang, Decui Liang
+
+  Omega  127 (2024)  103102.
 
 - [A two-stage method for improving the decision quality of consensus-driven three-way group decision-making](https://ieeexplore.ieee.org/abstract/document/9961219)
 
