@@ -30,7 +30,7 @@ My research interests include collective intelligence, group decision making, co
 </div>
 
 # 🔥 News
-- *2024.5*: &nbsp;🎉🎉 One paper is published on Omega!
+- *2024.5*: &nbsp;🎉🎉 One paper is published on Omega
 - *2023.10*: &nbsp;🎉🎉 I set up my academic personal homepage!
 
 # 📝 Publications 
