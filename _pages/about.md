@@ -109,6 +109,7 @@ My research interests include collective intelligence, group decision making, co
 
 # 💬 Academic Services
 ## Editor
+- *2024*, Sustainability (Guest editor-"[Potential Solutions for Environmentally Friendly Supply Chain Transformation](https://www.mdpi.com/journal/sustainability/special_issues/H09PO6SV5R)") 
 - *2023*, Sustainability (Guest editor-"[Decision Making and Management Innovation in the Era of Big Data towards Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/2M373G7J0N)") 
 
 ## Reviewer
