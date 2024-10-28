@@ -133,6 +133,10 @@ My research interests include collective intelligence, group decision making, co
 - ...
 
 # 💻 Teaching
+## Teaching
+- Program Development Foundation,  Xidian University
+- Python Programming, Xidian University
+  
 ## Teaching Assistance
 - Operations Research, Xidian University
 - Management Information System, University of Electronic Science and Technology of China
