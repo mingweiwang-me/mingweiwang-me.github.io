@@ -113,6 +113,7 @@ My research interests include collective intelligence, group decision making, co
 - *2023*, Sustainability (Guest editor-"[Decision Making and Management Innovation in the Era of Big Data towards Sustainability](https://www.mdpi.com/journal/sustainability/special_issues/2M373G7J0N)") 
 
 ## Reviewer
+- *2024-*, Decision Support Systems
 - *2023-*, Information Fusion
 - *2020-*, Information Sciences
 - *2023-*, Information Processing and Management
