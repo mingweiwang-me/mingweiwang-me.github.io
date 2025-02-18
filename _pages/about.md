@@ -117,6 +117,7 @@ My research interests include collective intelligence, group decision making, co
 - *2024-*, Decision Support Systems
 - *2023-*, Information Fusion
 - *2020-*, Information Sciences
+- *2025-*, Knowledge-Based Systems
 - *2023-*, Information Processing and Management
 - *2024-*, Applied Energy
 - *2021-*, Expert Systems with Applications
